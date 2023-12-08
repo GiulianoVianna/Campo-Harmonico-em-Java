@@ -1,4 +1,4 @@
-# Campo Harmônico
+# Campo Harmônico das Escalas Naturais Maiores e Menores.
 
 ## Descrição
 O `CampoHarmonico` é uma ferramenta desenvolvida em Java que gera campos harmônicos baseados em uma tônica e tipo de escala especificados pelo usuário. Esta ferramenta é útil para músicos e estudantes de música que desejam explorar diferentes harmonias e progressões de acordes dentro de escalas maiores e menores.
